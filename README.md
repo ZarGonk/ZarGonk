@@ -16,6 +16,10 @@ My name is **Gustavo** (also known as **ZarGonk**) 🚀
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
+
+## 📊 GitHub Stats
+![ZarGonk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZarGonk&show_icons=true&theme=tokyonight)   
+
 ---
 
 ## 🌱 Currently Learning
@@ -24,18 +28,3 @@ My name is **Gustavo** (also known as **ZarGonk**) 🚀
 - **Machine Learning**
 - **Database Management (SQL + Python Integration)**
 - **Automation with Python**
-
----
-
-## 🎯 Goals
-- 🚀 Contribute to open-source projects  
-- 🎮 Build projects that combine **games + AI**  
-- 🤖 Develop **automation tools** that solve real-world problems  
-- 🤝 Collaborate with the developer community  
-
----
-
-## 📊 GitHub Stats
-![ZarGonk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZarGonk&show_icons=true&theme=tokyonight)   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZarGonk&layout=compact&theme=tokyonight&hide=TeX)
-
